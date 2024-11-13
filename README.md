@@ -1,4 +1,4 @@
-Here’s the README in Markdown format, ready to paste into your GitHub README file for automatic formatting:
+Certainly! Here’s the full README with the **MERN** tech stack included:
 
 ---
 
@@ -28,14 +28,16 @@ This project is a clone of the popular coding platform [HackerRank](https://www.
 
 ## Demo
 
-[Include link to live demo or screenshots if available.]
+[Include a link to a live demo or screenshots if available.]
 
 ## Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript, [React or your chosen frontend framework]
-- **Backend:** Node.js, Express (or your chosen backend framework)
-- **Database:** MongoDB (or your chosen database)
-- **Code Editor:** Ace/Monaco Editor
+This project is built using the **MERN** stack:
+
+- **MongoDB:** For storing user data, challenges, and submissions.
+- **Express:** Backend framework for building the RESTful API.
+- **React:** Frontend library for building the user interface.
+- **Node.js:** Server environment for running the backend application.
 
 ## Installation
 
@@ -105,4 +107,4 @@ Feel free to reach out if you have questions or need any support. Happy coding!
 
 ---
 
-This Markdown will be formatted automatically by GitHub when you add it to your README.md file, displaying headings, lists, and code blocks neatly. Let me know if you need additional customization!
+This README now includes the **MERN** stack description and is formatted to display correctly on GitHub!
